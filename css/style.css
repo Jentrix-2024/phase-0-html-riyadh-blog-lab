@@ -21,26 +21,29 @@ body {
 
 #content {
   padding: 20px;
-  background: rgba(255,255,255,.85);
+  background-color: beige;
 }
 
 h1, h2 {
-  font-family: 'Gabriela', serif;
+  font-family: ;
   color: #fff;
 }
 
 h1 {
-  font-size: 3.5em;
+  font-size: 5em;
   margin-bottom: 0;
+  color: crimson;
 }
 
 h2 {
   font-size: 1.5em;
   margin-top: .5em;
+  color: black;
+  
 }
 
 h3 {
-  font-family: 'Gabriela', serif;
+  font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: 1.5em;
   margin-top: .5em;
 }
